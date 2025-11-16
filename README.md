@@ -57,18 +57,4 @@ The system identifies:
 2. Ensure stamps and signatures are visible and not too faint
 3. PDFs with higher resolution typically yield better results
 
-## Privacy & Security
-- Files are processed on secure servers
-- Uploaded files are automatically deleted after processing
-- No data is stored permanently
-- Each session is isolated for security
 
-## Browser Compatibility
-Works best with:
-- Chrome (recommended)
-- Firefox
-- Safari
-- Edge
-
-## Support
-If you encounter any issues or the system is not responding, please notify the technical administrator.
