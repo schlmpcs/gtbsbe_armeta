@@ -1,4 +1,4 @@
-# PDF Stamp, QR & Signature Detection System, team GTBSBE
+ # PDF Stamp, QR & Signature Detection System, team GTBSBE
 
 ## What It Does
 This web application automatically detects and marks stamps and signatures in PDF documents using advanced AI technology. Simply upload your PDFs, and the system will process them and return the documents with red bounding boxes around detected stamps and signatures.
